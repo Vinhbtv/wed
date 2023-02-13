@@ -1,0 +1,25 @@
+.column{
+    width: 360px;
+    height: 360px;
+    border:1px solid blue;
+    float:left;
+
+}
+.san-pham{
+    background-color: green;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+}
+.san-pham {
+    width: 330px;
+    height: 330px; 
+}
+    
+
+.san-pham .name{
+    color: red;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
